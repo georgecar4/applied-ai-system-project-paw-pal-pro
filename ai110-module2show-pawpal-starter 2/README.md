@@ -1,4 +1,6 @@
 # Title and Summary: What your project does and why it matters.
+the title is pawpal pro, I updated the pawpal+ app because it just saved infomation and displayed it. with the updates now one can retrive the info and add to it as well as view it better.
+
 
 # Architecture Overview: A short explanation of your system diagram.
 
